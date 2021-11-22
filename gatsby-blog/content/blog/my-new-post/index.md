@@ -5,3 +5,5 @@ description: "This is my new post"
 ---
 
 Heyyy
+
+![Chinese Salty Egg](./salty_egg.jpg)
